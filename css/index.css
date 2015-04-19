@@ -1,0 +1,9 @@
+
+#home1, #home2, #home3 { float: left; padding:12px; box-sizing: border-box; -moz-box-sizing: border-box; }
+#home1, #home3 { width: 27%; margin-top: 15px; }
+#home2 { width: 46%;  }
+article { margin: 7px 0; padding: 5px; }
+#home1 article, #home3 article { border: solid 2px #999; border-radius: 10px; }
+#home2 article { border-bottom: 1px dotted #999; }
+article header { font-size: 14px; font-weight: bold; }
+#home2 article header { font-size: 16px; }

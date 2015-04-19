@@ -1,0 +1,6 @@
+/**
+	@extends Application
+**/
+component {
+
+}
